@@ -14,4 +14,4 @@ https://github.com/lifuguan/saliency_prompt
 
 1. 2021, [An Example Study on Segmentation](https://example-link.com), Example Journal, **Code**: [GitHub](https://github.com/example-repo)
 2. 2021, [An Example Study on Segmentation](https://example-link.com), Example Journal, **Code**: [GitHub](https://github.com/example-repo)
-
+https://github.com/bowang-lab/MedSAM
